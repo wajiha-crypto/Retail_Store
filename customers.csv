@@ -1,0 +1,201 @@
+CustomerID,FirstName,LastName,Gender,BirthDate,City,JoinDate
+C001,Michael,Davis,M,1996-09-11 00:00:00,Osborneport,2022-09-25 00:00:00
+C002,Michael,Miller,M,1959-08-18 00:00:00,New Gabrielleport,2020-11-03 00:00:00
+C003,Carol,Hays,F,2005-04-19 00:00:00,Port Allen,2024-02-12 00:00:00
+C004,Joseph,Ward,M,1992-06-16 00:00:00,East Edgarborough,2024-09-09 00:00:00
+C005,Jamie,Salinas,M,1992-06-18 00:00:00,Port Kimberly,2022-02-24 00:00:00
+C006,Danny,Moore,M,1986-10-03 00:00:00,Costaberg,2022-07-09 00:00:00
+C007,Erin,Walker,M,1985-01-11 00:00:00,West Jasmine,2021-10-13 00:00:00
+C008,Isaiah,Williams,M,1960-11-13 00:00:00,New Michaelland,2025-03-04 00:00:00
+C009,Richard,Pacheco,F,2004-08-15 00:00:00,West Lisaville,2025-04-17 00:00:00
+C010,Catherine,Rice,M,1976-12-12 00:00:00,West Carol,2025-07-23 00:00:00
+C011,Haley,Williams,M,1997-03-03 00:00:00,Leburgh,2023-05-12 00:00:00
+C012,Dale,Perry,M,1989-12-08 00:00:00,Lake Dawn,2021-07-16 00:00:00
+C013,Robert,Anderson,M,1955-01-28 00:00:00,Jillianhaven,2023-03-22 00:00:00
+C014,Brittany,Green,M,1974-06-25 00:00:00,East Samantha,2021-11-09 00:00:00
+C015,Matthew,Molina,M,1993-12-12 00:00:00,Quinnville,2022-11-27 00:00:00
+C016,Miguel,Johnson,M,1976-04-27 00:00:00,Murrayborough,2022-02-21 00:00:00
+C017,Vanessa,Anderson,F,1982-03-11 00:00:00,Peterside,2024-09-25 00:00:00
+C018,Breanna,Davis,M,1994-08-19 00:00:00,East William,2024-11-12 00:00:00
+C019,John,Smith,F,1998-05-16 00:00:00,Stephaniechester,2023-05-17 00:00:00
+C020,Ryan,Cole,F,1982-06-26 00:00:00,Travisstad,2024-04-19 00:00:00
+C021,Debbie,Martin,M,1993-11-17 00:00:00,Meganmouth,2022-01-22 00:00:00
+C022,Megan,Velasquez,M,1955-11-16 00:00:00,East James,2020-10-02 00:00:00
+C023,Mark,Martinez,F,1972-05-09 00:00:00,New Christophermouth,2020-10-19 00:00:00
+C024,Molly,Murray,F,1961-11-25 00:00:00,North April,2023-04-20 00:00:00
+C025,Cheryl,Gilbert,F,1971-03-12 00:00:00,Bradyshire,2022-01-14 00:00:00
+C026,Justin,Macdonald,M,2004-01-04 00:00:00,Shepherdburgh,2024-09-03 00:00:00
+C027,Jacqueline,Martin,M,1959-02-05 00:00:00,Robertmouth,2023-08-30 00:00:00
+C028,John,Carr,F,1960-02-10 00:00:00,New David,2022-12-16 00:00:00
+C029,Tyler,Levine,M,1978-05-20 00:00:00,West Charles,2021-08-30 00:00:00
+C030,Lacey,Hall,M,2002-06-10 00:00:00,Thomashaven,2022-08-27 00:00:00
+C031,Ashley,Gibson,F,2003-03-14 00:00:00,East Carrieberg,2025-08-26 00:00:00
+C032,Valerie,Macdonald,M,1992-11-09 00:00:00,East Shelby,2021-01-12 00:00:00
+C033,Jenny,Beck,F,1978-07-27 00:00:00,Lake Cody,2025-03-17 00:00:00
+C034,Kari,Miller,F,1964-12-19 00:00:00,East Mary,2025-01-13 00:00:00
+C035,Kimberly,King,F,1991-04-19 00:00:00,North George,2023-03-22 00:00:00
+C036,Michael,Cervantes,M,1991-11-04 00:00:00,Ashleyview,2020-09-30 00:00:00
+C037,Miranda,Nelson,F,1982-08-30 00:00:00,West Melissahaven,2024-01-31 00:00:00
+C038,Tracey,Davis,M,1974-04-19 00:00:00,Wilsonbury,2021-05-10 00:00:00
+C039,Nancy,Savage,F,1996-11-02 00:00:00,Port Sandra,2022-10-17 00:00:00
+C040,Scott,Powell,M,1974-11-06 00:00:00,Port Miguel,2022-07-12 00:00:00
+C041,Melissa,Rodgers,F,1980-07-03 00:00:00,North Sharontown,2023-01-24 00:00:00
+C042,Anna,Andrews,F,2000-02-08 00:00:00,North Teresashire,2021-11-09 00:00:00
+C043,Kenneth,Allen,M,1988-09-14 00:00:00,North Jonathonhaven,2023-10-14 00:00:00
+C044,Parker,Sparks,M,1961-02-14 00:00:00,Bryanside,2024-12-27 00:00:00
+C045,Kelly,Shaw,M,1975-12-28 00:00:00,Zacharyfort,2023-10-09 00:00:00
+C046,Dennis,Poole,M,1964-01-21 00:00:00,New Jontown,2022-06-25 00:00:00
+C047,Mary,Decker,F,2006-07-03 00:00:00,Port Jessica,2025-02-25 00:00:00
+C048,Alexis,Crane,M,2004-12-30 00:00:00,Newtonborough,2022-04-10 00:00:00
+C049,Antonio,Hamilton,M,1997-01-03 00:00:00,Chambersview,2022-06-23 00:00:00
+C050,Kelly,Mcmillan,M,1968-06-20 00:00:00,Erinland,2022-08-25 00:00:00
+C051,Madison,Sellers,F,2004-12-19 00:00:00,Boyerstad,2024-02-25 00:00:00
+C052,Billy,Hernandez,F,1991-09-11 00:00:00,Walkerfurt,2024-04-25 00:00:00
+C053,Felicia,Morgan,F,1998-04-20 00:00:00,Lake Michaelshire,2024-04-07 00:00:00
+C054,Crystal,Johnson,F,2002-11-10 00:00:00,New Kathleentown,2021-03-19 00:00:00
+C055,Deborah,Moody,M,1976-07-09 00:00:00,Andersonville,2021-02-05 00:00:00
+C056,Carl,Wyatt,F,2004-09-23 00:00:00,North Tracey,2021-06-19 00:00:00
+C057,Julie,Gibson,F,1998-09-26 00:00:00,Williamsville,2023-03-26 00:00:00
+C058,Lawrence,Stewart,M,2005-07-22 00:00:00,West Tinatown,2020-11-10 00:00:00
+C059,Scott,Wyatt,F,1963-05-11 00:00:00,New Meagan,2024-09-27 00:00:00
+C060,Anthony,Conway,M,1997-10-09 00:00:00,Carlyberg,2025-06-15 00:00:00
+C061,Heather,Russell,M,1968-10-21 00:00:00,North Michellemouth,2021-02-01 00:00:00
+C062,Susan,Salinas,M,2000-06-21 00:00:00,Turnerberg,2021-09-23 00:00:00
+C063,Michael,Johnson,M,1973-01-07 00:00:00,West Amandashire,2023-05-29 00:00:00
+C064,Amanda,Hoover,F,1973-09-01 00:00:00,Brittanyburgh,2024-09-26 00:00:00
+C065,Scott,Duke,F,1969-12-10 00:00:00,Williamhaven,2024-01-21 00:00:00
+C066,Jason,Jenkins,F,1985-09-14 00:00:00,New Randychester,2020-12-21 00:00:00
+C067,Daniel,Maldonado,M,1973-09-07 00:00:00,Davisfurt,2021-03-11 00:00:00
+C068,Alexandra,Montoya,F,1981-06-09 00:00:00,New Julia,2024-06-13 00:00:00
+C069,Gabriel,Daugherty,M,1965-10-14 00:00:00,New Reginald,2023-01-11 00:00:00
+C070,Eric,Bryan,M,1971-10-24 00:00:00,Taylorhaven,2021-03-04 00:00:00
+C071,Denise,Gutierrez,M,1962-06-18 00:00:00,New Manuelville,2021-05-24 00:00:00
+C072,Eric,Watkins,F,1995-06-06 00:00:00,Melissashire,2022-07-02 00:00:00
+C073,Carl,Armstrong,F,1964-12-04 00:00:00,Port Angelabury,2022-02-09 00:00:00
+C074,Jesus,Singh,F,1959-05-31 00:00:00,Port Michaelstad,2023-02-09 00:00:00
+C075,Seth,Moore,M,1954-09-17 00:00:00,New John,2021-05-12 00:00:00
+C076,Phyllis,Durham,M,2005-12-14 00:00:00,Nancyside,2022-05-07 00:00:00
+C077,Matthew,Juarez,F,2002-12-24 00:00:00,North Meagan,2022-10-21 00:00:00
+C078,Jeanne,Young,M,1988-09-25 00:00:00,Craigport,2025-01-14 00:00:00
+C079,Donald,Marsh,F,1979-06-15 00:00:00,North Bradleyfurt,2024-07-06 00:00:00
+C080,Grace,Garcia,F,2003-11-04 00:00:00,Markberg,2023-01-02 00:00:00
+C081,Sarah,Reynolds,F,1988-07-20 00:00:00,South Christinabury,2022-09-22 00:00:00
+C082,Amy,Haley,M,2003-05-11 00:00:00,Vasquezmouth,2024-06-29 00:00:00
+C083,Jeremy,Robles,F,1981-03-29 00:00:00,West Josephport,2022-02-08 00:00:00
+C084,Amanda,Lee,M,1972-03-19 00:00:00,Meyersstad,2024-09-04 00:00:00
+C085,Juan,Ramirez,M,1979-03-23 00:00:00,New Michaelview,2023-10-11 00:00:00
+C086,Lawrence,Hunter,F,1975-09-26 00:00:00,Port Stephanie,2023-07-26 00:00:00
+C087,Laurie,Mason,F,1975-06-22 00:00:00,Berrymouth,2025-07-02 00:00:00
+C088,Brenda,Costa,F,1997-10-11 00:00:00,North Christian,2022-09-12 00:00:00
+C089,William,Warner,F,1969-07-12 00:00:00,Geoffreystad,2022-11-25 00:00:00
+C090,Carrie,Peterson,M,1975-08-18 00:00:00,Fergusonview,2022-01-16 00:00:00
+C091,Brian,Fowler,M,1963-02-04 00:00:00,Port Williamhaven,2021-08-23 00:00:00
+C092,Lindsey,Holder,F,2001-11-28 00:00:00,Mendozaland,2023-12-17 00:00:00
+C093,Stanley,Brown,M,1978-04-14 00:00:00,Baldwinstad,2022-02-25 00:00:00
+C094,Kimberly,Stokes,M,1962-10-18 00:00:00,Seanland,2025-08-07 00:00:00
+C095,Kevin,Snyder,M,1982-08-20 00:00:00,Seanville,2020-12-19 00:00:00
+C096,Eric,King,M,1989-01-06 00:00:00,Lake Amanda,2021-10-27 00:00:00
+C097,Evelyn,Gray,M,1994-08-14 00:00:00,Wardfort,2025-06-14 00:00:00
+C098,Lisa,Vega,F,2005-01-09 00:00:00,East Colinmouth,2023-05-22 00:00:00
+C099,Kimberly,Jones,M,1964-07-22 00:00:00,Hansonhaven,2021-01-17 00:00:00
+C100,Sean,Hart,F,1954-09-28 00:00:00,North Jason,2024-11-06 00:00:00
+C101,William,Pope,F,1956-05-29 00:00:00,North Gary,2024-09-08 00:00:00
+C102,Carolyn,Perez,F,1996-06-20 00:00:00,South Briantown,2023-11-12 00:00:00
+C103,David,Burns,F,1964-10-26 00:00:00,Joyceside,2021-06-04 00:00:00
+C104,Brenda,Dean,M,1965-03-20 00:00:00,West Ann,2024-01-17 00:00:00
+C105,Kenneth,Berg,M,1969-12-29 00:00:00,Morrisborough,2023-07-06 00:00:00
+C106,Kevin,Flores,F,1987-04-23 00:00:00,Lake Ricardo,2025-02-06 00:00:00
+C107,Victoria,Hansen,F,1995-10-08 00:00:00,Lake Dale,2023-07-17 00:00:00
+C108,Samantha,Hill,M,1960-11-21 00:00:00,Georgetown,2022-06-08 00:00:00
+C109,Austin,Hogan,F,2006-03-03 00:00:00,Port Fernandohaven,2021-07-29 00:00:00
+C110,Travis,Peters,F,1966-01-05 00:00:00,South Ianhaven,2022-12-31 00:00:00
+C111,Dylan,Booker,M,1993-07-13 00:00:00,Justintown,2022-01-12 00:00:00
+C112,Jeffrey,Smith,F,1983-12-29 00:00:00,Aaronmouth,2023-03-21 00:00:00
+C113,Heidi,Wilson,M,1977-05-23 00:00:00,Ramosbury,2022-12-31 00:00:00
+C114,Miranda,Rodriguez,F,1980-07-04 00:00:00,Adkinsport,2025-08-23 00:00:00
+C115,Jose,Smith,M,1960-02-25 00:00:00,Smithburgh,2023-11-12 00:00:00
+C116,Jamie,Webb,M,1955-09-26 00:00:00,Zacharyberg,2025-07-31 00:00:00
+C117,Timothy,Beck,F,1987-09-07 00:00:00,Lauraborough,2022-12-18 00:00:00
+C118,Gina,Bradford,M,1975-08-27 00:00:00,Port William,2025-07-12 00:00:00
+C119,Jason,Lloyd,M,1991-07-31 00:00:00,West Ralph,2025-03-31 00:00:00
+C120,Curtis,Faulkner,F,1964-01-10 00:00:00,Annaborough,2020-10-18 00:00:00
+C121,John,Bell,M,1967-02-28 00:00:00,Sarahhaven,2021-10-11 00:00:00
+C122,Amy,Smith,M,1961-10-02 00:00:00,Simonstad,2024-06-24 00:00:00
+C123,Peter,Edwards,F,1989-11-06 00:00:00,Cliffordbury,2022-06-06 00:00:00
+C124,Chad,Roberts,F,1962-06-07 00:00:00,North Michelle,2021-02-10 00:00:00
+C125,Kimberly,Parker,M,1990-04-03 00:00:00,Lake Christopher,2021-03-14 00:00:00
+C126,Monique,Johnson,M,1980-04-04 00:00:00,West Paulfurt,2024-12-28 00:00:00
+C127,John,Allen,F,1982-11-17 00:00:00,Kimland,2021-01-22 00:00:00
+C128,Robert,Collins,F,1976-08-06 00:00:00,Anthonystad,2025-02-09 00:00:00
+C129,Gary,Taylor,M,1958-10-08 00:00:00,New Michael,2024-12-10 00:00:00
+C130,Aaron,Bailey,M,1982-02-03 00:00:00,Marcchester,2024-07-15 00:00:00
+C131,Denise,Jackson,M,1996-10-18 00:00:00,Williamsport,2022-12-20 00:00:00
+C132,Jared,Ochoa,M,1958-12-24 00:00:00,Cisnerosville,2023-04-19 00:00:00
+C133,Yvette,Roth,M,1962-04-14 00:00:00,East Melissashire,2025-06-23 00:00:00
+C134,Emily,Hart,F,1985-01-29 00:00:00,Angelaland,2025-05-22 00:00:00
+C135,Mario,Cuevas,M,1986-03-07 00:00:00,North Charlesville,2023-09-03 00:00:00
+C136,Amanda,Garcia,M,2007-06-27 00:00:00,Watsonview,2023-04-22 00:00:00
+C137,Gary,Lopez,M,1984-08-05 00:00:00,Amandachester,2024-05-09 00:00:00
+C138,Breanna,Moore,F,1961-09-28 00:00:00,Melissaberg,2021-05-10 00:00:00
+C139,Alexander,Mcfarland,M,1960-03-21 00:00:00,Whiteside,2021-09-16 00:00:00
+C140,Stacy,Williams,F,1973-06-12 00:00:00,Port Gail,2024-08-28 00:00:00
+C141,Adam,Lucas,F,1978-08-06 00:00:00,Allisonmouth,2024-01-07 00:00:00
+C142,Suzanne,Fox,M,2005-07-25 00:00:00,Joelborough,2020-12-27 00:00:00
+C143,Cynthia,Carlson,M,1961-06-03 00:00:00,South Jameschester,2023-06-10 00:00:00
+C144,Betty,Johnson,F,1963-09-02 00:00:00,North Lisa,2021-03-03 00:00:00
+C145,Paige,Osborne,F,1959-11-07 00:00:00,Carlsonborough,2021-08-19 00:00:00
+C146,John,Johnson,F,1997-03-26 00:00:00,North Jamesport,2022-08-31 00:00:00
+C147,Crystal,Garrison,F,1967-02-03 00:00:00,New Jason,2023-05-20 00:00:00
+C148,John,Foster,F,2005-07-08 00:00:00,Charlesmouth,2024-11-05 00:00:00
+C149,Melissa,Torres,M,1978-01-24 00:00:00,North Kathryn,2025-05-02 00:00:00
+C150,Francis,Hernandez,M,1971-06-17 00:00:00,Juliefurt,2022-10-07 00:00:00
+C151,Dawn,Fletcher,M,2006-08-30 00:00:00,South Audrey,2022-01-26 00:00:00
+C152,Brittany,Green,M,1987-06-17 00:00:00,Port Jeffreyside,2021-03-06 00:00:00
+C153,Nancy,Gordon,F,1988-04-07 00:00:00,Port Alex,2023-02-05 00:00:00
+C154,Lisa,Martinez,M,1971-09-02 00:00:00,East Codyton,2023-11-21 00:00:00
+C155,Jill,Mcconnell,M,1965-09-20 00:00:00,Kevinshire,2024-03-23 00:00:00
+C156,George,Young,M,1956-11-28 00:00:00,Lisatown,2024-01-04 00:00:00
+C157,Connie,Terry,M,1965-12-16 00:00:00,Port Patriciaburgh,2022-12-22 00:00:00
+C158,Crystal,Aguirre,M,1981-07-24 00:00:00,Dylanmouth,2023-09-15 00:00:00
+C159,Thomas,Chung,M,1990-10-14 00:00:00,Joshuamouth,2022-01-26 00:00:00
+C160,Meagan,Macdonald,M,1991-09-10 00:00:00,Port Jacob,2021-10-27 00:00:00
+C161,Michael,Perez,M,1963-01-19 00:00:00,Shannontown,2023-01-31 00:00:00
+C162,Jill,Roach,M,2000-08-30 00:00:00,Ellisside,2022-06-03 00:00:00
+C163,Erin,Rogers,F,1985-10-08 00:00:00,Lake Lindsay,2025-08-20 00:00:00
+C164,Linda,Vasquez,M,1968-07-28 00:00:00,North Rodney,2020-12-21 00:00:00
+C165,Tanya,Mueller,M,1972-12-26 00:00:00,West Tanner,2023-12-05 00:00:00
+C166,Meagan,Ali,F,2001-05-13 00:00:00,South Markbury,2023-07-10 00:00:00
+C167,Kimberly,Lin,F,1989-12-06 00:00:00,Wilsonland,2022-05-28 00:00:00
+C168,Richard,Jones,M,1969-07-30 00:00:00,Lake Steventown,2022-10-01 00:00:00
+C169,Travis,Watson,M,1967-06-15 00:00:00,Christopherburgh,2021-12-23 00:00:00
+C170,Amber,Graham,F,1984-05-05 00:00:00,Lake Melissaborough,2025-08-20 00:00:00
+C171,Christina,Dominguez,M,1993-03-15 00:00:00,Robertsborough,2025-07-28 00:00:00
+C172,Michelle,Smith,F,1977-03-14 00:00:00,New Fred,2025-06-21 00:00:00
+C173,Lisa,Ruiz,F,1958-08-28 00:00:00,South Marcusberg,2025-08-22 00:00:00
+C174,Scott,Howell,M,2005-07-07 00:00:00,South Jennifer,2025-08-28 00:00:00
+C175,Stacey,Thompson,M,1998-01-07 00:00:00,Davidtown,2021-02-25 00:00:00
+C176,Peter,Garcia,M,1979-10-07 00:00:00,West Amymouth,2021-07-22 00:00:00
+C177,Anthony,Gould,F,1985-01-05 00:00:00,South James,2022-01-23 00:00:00
+C178,Mark,Mcdonald,F,1960-12-05 00:00:00,East Paulburgh,2024-06-22 00:00:00
+C179,Dennis,Wallace,F,1985-02-14 00:00:00,Bennettburgh,2025-08-19 00:00:00
+C180,Nichole,Calhoun,F,1959-12-15 00:00:00,West Dakotaside,2022-10-19 00:00:00
+C181,Brittany,Oneal,F,1972-11-28 00:00:00,Port Bryce,2024-12-12 00:00:00
+C182,Meghan,Wright,M,2004-07-25 00:00:00,East Rodney,2021-04-16 00:00:00
+C183,Mary,Dawson,M,1990-11-19 00:00:00,New Tiffanyberg,2021-08-27 00:00:00
+C184,Daniel,Mcintyre,M,2003-04-13 00:00:00,West Katrina,2021-04-19 00:00:00
+C185,Joe,Vincent,F,1975-07-04 00:00:00,North Chaseborough,2024-10-06 00:00:00
+C186,Vicki,Guzman,F,1960-05-05 00:00:00,West Wandaland,2024-02-07 00:00:00
+C187,Cynthia,Cherry,M,1989-01-14 00:00:00,Gomeztown,2023-11-01 00:00:00
+C188,Ryan,Flores,M,1960-11-23 00:00:00,East Danielleshire,2023-05-19 00:00:00
+C189,Steve,Flynn,M,1966-08-07 00:00:00,East Walter,2021-03-05 00:00:00
+C190,Daniel,Lawson,M,1967-08-19 00:00:00,Conwayside,2023-04-10 00:00:00
+C191,Karen,Quinn,F,1958-07-14 00:00:00,Kristinemouth,2022-06-11 00:00:00
+C192,James,Wilson,M,2006-07-28 00:00:00,Franklinview,2023-09-26 00:00:00
+C193,Donald,Meza,F,1969-11-06 00:00:00,North Kelly,2020-12-08 00:00:00
+C194,Ann,West,M,2000-09-02 00:00:00,Craigshire,2022-08-05 00:00:00
+C195,James,Mitchell,F,1976-08-23 00:00:00,East Raymond,2025-06-19 00:00:00
+C196,James,Noble,F,1964-04-24 00:00:00,Woodbury,2025-02-19 00:00:00
+C197,Matthew,Dixon,M,1957-09-23 00:00:00,Lake Emily,2020-11-18 00:00:00
+C198,Jessica,Mullins,M,1986-01-23 00:00:00,Jessicaside,2022-12-10 00:00:00
+C199,Juan,Johnson,F,1970-05-18 00:00:00,South Scottton,2021-07-28 00:00:00
+C200,Ronald,Haley,M,2001-12-24 00:00:00,Jenniferbury,2025-06-24 00:00:00
