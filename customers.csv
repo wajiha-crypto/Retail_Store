@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone,city,country,signup_date
+1,Ali,Khan,ali.khan@example.com,03001234567,Lahore,Pakistan,2025-01-12
+2,Sara,Ahmed,sara.ahmed@example.com,03011234567,Karachi,Pakistan,2025-01-15
+3,Bilal,Hussain,bilal.hussain@example.com,03021234567,Islamabad,Pakistan,2025-02-02
+4,Ayesha,Malik,ayesha.malik@example.com,03031234567,Lahore,Pakistan,2025-02-10
+5,Usman,Tariq,usman.tariq@example.com,03041234567,Faisalabad,Pakistan,2025-02-18
+6,Hina,Riaz,hina.riaz@example.com,03051234567,Multan,Pakistan,2025-03-01
+7,Zeeshan,Abbas,zeeshan.abbas@example.com,03061234567,Karachi,Pakistan,2025-03-05
+8,Fatima,Noor,fatima.noor@example.com,03071234567,Lahore,Pakistan,2025-03-11
+9,Hamza,Sheikh,hamza.sheikh@example.com,03081234567,Rawalpindi,Pakistan,2025-03-20
+10,Mahnoor,Iqbal,mahnoor.iqbal@example.com,03091234567,Islamabad,Pakistan,2025-04-02

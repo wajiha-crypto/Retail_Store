@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price,stock_quantity
+101,Wireless Mouse,Electronics,1500.00,120
+102,Mechanical Keyboard,Electronics,4500.00,80
+103,USB-C Charger,Electronics,1200.00,200
+104,Bluetooth Headphones,Electronics,5500.00,60
+105,Notebook Set,Stationery,350.00,300
+106,Ballpoint Pen Pack,Stationery,150.00,500
+107,Office Chair,Furniture,15000.00,25
+108,Study Desk,Furniture,20000.00,15
+109,LED Desk Lamp,Home,2200.00,90
+110,Water Bottle,Home,800.00,150

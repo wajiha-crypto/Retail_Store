@@ -1,0 +1,16 @@
+order_id,customer_id,product_id,order_date,quantity,order_status
+1001,1,101,2025-04-05,2,Completed
+1002,2,104,2025-04-06,1,Completed
+1003,3,107,2025-04-07,1,Completed
+1004,1,103,2025-04-10,3,Completed
+1005,4,105,2025-04-11,5,Completed
+1006,5,102,2025-04-12,1,Cancelled
+1007,6,110,2025-04-14,2,Completed
+1008,7,108,2025-04-15,1,Completed
+1009,8,106,2025-04-16,4,Completed
+1010,9,109,2025-04-18,1,Completed
+1011,2,101,2025-04-20,1,Completed
+1012,10,104,2025-04-21,1,Pending
+1013,3,110,2025-04-22,2,Completed
+1014,5,107,2025-04-25,1,Completed
+1015,6,102,2025-04-27,1,Completed
