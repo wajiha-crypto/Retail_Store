@@ -1,7 +1,4 @@
--- ============================================
 -- Retail_Store: Warehouse Schema (star schema)
--- ============================================
-
 CREATE SCHEMA IF NOT EXISTS warehouse;
 
 -- Dimension: Customers
