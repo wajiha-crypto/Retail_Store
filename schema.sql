@@ -1,7 +1,4 @@
--- ============================================
 -- Retail_Store: Source Schema
--- ============================================
-
 CREATE SCHEMA IF NOT EXISTS retail_store;
 
 -- Customers table
