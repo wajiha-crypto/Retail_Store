@@ -1,7 +1,4 @@
--- ============================================
 -- Retail_Store: Staging Schema (cleaned data)
--- ============================================
-
 CREATE SCHEMA IF NOT EXISTS staging;
 
 -- Cleaned customers
