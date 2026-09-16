@@ -1,8 +1,5 @@
--- ============================================
 -- Retail_Store: Analytical Queries
 -- (Window functions, CTEs, business insights)
--- ============================================
-
 -- 1. CTE: Total revenue and order count per customer
 WITH customer_summary AS (
     SELECT
